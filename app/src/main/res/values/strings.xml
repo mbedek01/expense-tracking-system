@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnTheGo</string>
+
+    <string-array name="CategoryArray">
+        <item>Food</item>
+        <item>Gas</item>
+        <item>Accomodation</item>
+        <item>Transportation</item>
+    </string-array>
+
+</resources>
